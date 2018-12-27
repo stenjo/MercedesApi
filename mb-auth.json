@@ -1,0 +1,9 @@
+{
+  "client_id": "<YOUR CLIENT ID>",
+  "client_secret": "<YOUR CLIENT SECRET>",
+  "code": "<CODE OBTAINED VIA get_auth_url.py>",
+  "app_id": "<YOUR APP ID>",
+  "callback_url": "http://localhost",
+  "access_token": "<stored after obtained>",
+  "refresh_token": "<stored after obtained>"
+}
